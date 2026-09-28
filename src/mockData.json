@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "category": "Scam",
+    "subject": "Quick favor regarding your reimbursement",
+    "body": "Hi Daniel, I'm helping close out the team's travel expenses this week. Your reimbursement is ready to process, but accounting needs a small verification payment of $18 before they can release the full amount. Please send it today and I'll make sure the reimbursement goes through."
+  },
+  {
+    "id": 2,
+    "category": "Scam",
+    "subject": "Confidential request from the director",
+    "body": "Hello Maya, I'm currently tied up in meetings and need you to purchase three $100 gift cards for an urgent client matter. Please keep this confidential and send me the card numbers as soon as possible. I'll reimburse you through payroll later today. Thanks for handling this discreetly."
+  },
+  {
+    "id": 3,
+    "category": "Scam",
+    "subject": "Your account requires immediate confirmation",
+    "body": "Dear Customer, our monitoring system detected unusual activity on your account. To prevent temporary suspension, confirm your identity and payment details within the next two hours using the secure verification form. Failure to comply may result in permanent account closure and loss of access to your funds."
+  },
+  {
+    "id": 4,
+    "category": "Scam",
+    "subject": "You owe us money — settle this now",
+    "body": "This is your final notice. You have an outstanding balance of $740 that must be paid within 24 hours. If payment is not received immediately, we will contact your employer, notify your family, and begin legal action. Send the payment to the account listed below and reply with proof."
+  },
+  {
+    "id": 5,
+    "category": "Scam",
+    "subject": "We have your files",
+    "body": "We copied several private documents from your computer, including personal photos and work files. We will publish them and send them to your contacts unless you transfer 0.35 BTC within 12 hours. Do not contact the police or tell anyone. Once payment is confirmed, we will delete the files."
+  },
+  {
+    "id": 6,
+    "category": "Safe",
+    "subject": "Meeting moved to 3 PM",
+    "body": "Hi Sam, just a heads-up that tomorrow's project meeting has been moved from 2 PM to 3 PM because the design team has another session at the original time. The meeting room is still the same. See you there!"
+  },
+  {
+    "id": 7,
+    "category": "Safe",
+    "subject": "Thanks for your help with the report",
+    "body": "Hi Priya, thanks for reviewing the quarterly report and catching those formatting issues. I've made the changes you suggested and uploaded the updated version to the shared folder. Really appreciate the help."
+  },
+  {
+    "id": 8,
+    "category": "Safe",
+    "subject": "Weekend lunch plans",
+    "body": "Hey Alex, are you still free for lunch on Saturday? I was thinking about trying the new café near the park around 1 PM. Let me know if that works for you."
+  },
+  {
+    "id": 9,
+    "category": "Safe",
+    "subject": "Vacation request approved",
+    "body": "Hello Jordan, your vacation request for October 12–16 has been approved. Please make sure your current tasks are handed over before you leave, and remember to set your out-of-office message. Enjoy your time off!"
+  },
+  {
+    "id": 10,
+    "category": "Safe",
+    "subject": "Reminder: dentist appointment",
+    "body": "Hi Chris, this is a reminder that your dental appointment is scheduled for Tuesday at 10:30 AM. Please arrive about 10 minutes early to complete the check-in forms. Reply to this email if you need to reschedule."
+  }
+]
